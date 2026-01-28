@@ -1,56 +1,72 @@
-Hi, I’m Luz Elena Cifuentes
-🎯 Data Analyst passionate about transforming data into actionable insights and supporting evidence-based decision-making.
+Hola, soy Luz Elena Cifuentes
+🎯 Analista de Datos apasionado por transformar datos en insights accionables y apoyar la toma de decisiones basada en evidencia.
 
 ---
 
-🧠 About me
-📊 Data analyst focused on exploratory data analysis, business metrics, KPS and data visualization
-🔍 Interested in understanding user behavior, performance, and operational efficiency
-🧩 I enjoy working with real-world data, solving problems, and clearly communicating results
+🧠 Sobre mí
+📊 Analista de datos con enfoque en análisis exploratorio, métricas de negocio y visualización
+🔍 Interesado en entender el comportamiento de usuarios, el rendimiento y la eficiencia operativa
+🧩 Disfruto trabajar con datos reales, resolver problemas y comunicar resultados de forma clara
 
 ---
 
-🛠️ Technologies & tools
-Languages
+🛠️ Tecnologías y herramientas
+Lenguajes
 🐍 Python
 🧮 SQL
 
-Data analysis & manipulation
+Análisis y manipulación de datos
 Pandas
 NumPy
 
-Visualization
+Visualización
 Matplotlib
 Seaborn
-Tableau (Basic) / Power BI (Basic)
+Tableau / Power BI (completar según aplique)
 
-Other tools
+Bases de datos
+PostgreSQL
+Snowflake
+BigQuery (opcional)
+
+Otras herramientas
 Git & GitHub
+Google Sheets / Excel
 Jupyter Notebook
 
 ---
 
-📂 Featured projects
-🔹 Video Game Sales Analysis 1
-Data analysis project focused on identifying patterns of successful video games
-using sales data, reviews, platforms, genres, and ESRB ratings.
-Technologies: Python, SQL
+📂 Proyectos destacados
+🔹 Nombre del proyecto 1
+Breve descripción del problema, los datos utilizados y el impacto del análisis.
+Tecnologías: Python, SQL
+
+🔹 Nombre del proyecto 2
+Breve descripción del objetivo y los principales insights obtenidos.
+Tecnologías: Python, visualización
+
+🔹 Nombre del proyecto 3
+Proyecto enfocado en métricas, cohortes, retención o análisis de negocio.
+Tecnologías: SQL, dashboards
+
+(Agrega los enlaces a los repositorios cuando estén disponibles)
 
 ---
 
-📈 What you’ll find in my repositories
-Data cleaning and exploratory data analysis (EDA)
-Cohort analysis and retention metrics
-Optimized SQL queries
-Visualizations for reporting
-Academic and hands-on data analysis projects
+📈 Qué encontrarás en mis repositorios
+Limpieza y exploración de datos (EDA)
+Análisis de cohortes y métricas de retención
+Consultas SQL optimizadas
+Visualizaciones para reporting
+Proyectos académicos y prácticos de análisis de datos
 
 ---
 
-📫 Contact
-💼 LinkedIn:  www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7
-✉️ Email: bladimir4hernandez@gmail.com _
+📫 Contacto
+💼 LinkedIn: ___
+✉️ Email: ___
+🌐 Portafolio (si aplica): ___
 
 ---
 
-⭐ If you find any of my projects useful, feel free to leave a star!
+⭐ Si alguno de mis proyectos te resulta útil, ¡no dudes en dejar una estrella!
