@@ -1,79 +1,64 @@
-# 👋 Hola, soy Luz Elena Cifuentes
+## 🧠 Sobre este repositorio
 
-🎯 **Analista de Datos** apasionado por transformar datos en insights accionables y apoyar la toma de decisiones basada en evidencia.
-
----
-
-## 🧠 Sobre mí
-
-- 📊 Analista de datos con enfoque en análisis exploratorio, métricas de negocio y visualización  
-- 🔍 Interesado en entender el comportamiento de usuarios, el rendimiento y la eficiencia operativa  
-- 🧩 Disfruto trabajar con datos reales, resolver problemas y comunicar resultados de forma clara  
+- Proyectos prácticos de análisis de datos
+- Datasets reales y problemas orientados al negocio
+- Enfoque en insights, métricas y comunicación clara de resultados
+- Proyectos desarrollados como parte de formación en análisis de datos y práctica personal
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Herramientas y tecnologías
 
-**Lenguajes**
-- 🐍 Python  
-- 🧮 SQL  
-
-**Análisis y manipulación de datos**
-- Pandas  
-- NumPy  
-
-**Visualización**
-- Matplotlib  
-- Seaborn  
-- Tableau / Power BI _(completar según aplique)_
-
-**Bases de datos**
-- PostgreSQL  
-- Snowflake  
-- BigQuery _(opcional)_
-
-**Otras herramientas**
-- Git & GitHub  
-- Google Sheets / Excel  
-- Jupyter Notebook  
+- Python (Pandas, NumPy)
+- Visualización de datos (Matplotlib, Seaborn)
+- SQL
+- Jupyter Notebook
+- Git & GitHub
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos
 
-🔹 **Nombre del proyecto 1**  
-Breve descripción del problema, los datos utilizados y el impacto del análisis.  
-_Tecnologías_: Python, SQL  
+### 🔹 Análisis de Ventas de Videojuegos
+**Descripción:**  
+Análisis de datos históricos de ventas de videojuegos, incluyendo reseñas de usuarios y críticos, géneros, plataformas y clasificaciones ESRB, para identificar patrones que determinan el éxito comercial de un videojuego.
 
-🔹 **Nombre del proyecto 2**  
-Breve descripción del objetivo y los principales insights obtenidos.  
-_Tecnologías_: Python, visualización  
+**Enfoque principal:**
+- Análisis Exploratorio de Datos (EDA)
+- Tendencias de ventas por plataforma y género
+- Impacto de las clasificaciones y reseñas en el éxito
+- Insights de mercado para apoyar decisiones de marketing
 
-🔹 **Nombre del proyecto 3**  
-Proyecto enfocado en métricas, cohortes, retención o análisis de negocio.  
-_Tecnologías_: SQL, dashboards  
+**Herramientas:** Python, Pandas, Matplotlib, Seaborn  
 
-_(Agrega los enlaces a los repositorios cuando estén disponibles)_
+📁 Carpeta: `video-game-sales-analysis`
 
 ---
 
-## 📈 Qué encontrarás en mis repositorios
+### 🔹 Proyecto 2 – Estrategia de Investigación de Model Fitness
+**Descripción:**  
+_Por agregar._
 
-- Limpieza y exploración de datos (EDA)  
-- Análisis de cohortes y métricas de retención  
-- Consultas SQL optimizadas  
-- Visualizaciones para reporting  
-- Proyectos académicos y prácticos de análisis de datos  
+---
+
+### 🔹 Proyecto 3 – Próximamente
+**Descripción:**  
+_Por agregar._
+
+---
+
+## 📈 Qué encontrarás aquí
+
+- Limpieza y preprocesamiento de datos
+- Análisis Exploratorio de Datos (EDA)
+- Insights de negocio y producto
+- Storytelling con datos
+- Notebooks bien documentados
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: ___  
-- ✉️ Email: ___  
-- 🌐 Portafolio (si aplica): ___  
-
----
-
-⭐ Si alguno de mis proyectos te resulta útil, ¡no dudes en dejar una estrella!
+- 💼 LinkedIn: www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7  
+- ✉️ Email: bladimir4hernandez@gmail.com  
 
